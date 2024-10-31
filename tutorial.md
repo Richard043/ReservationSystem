@@ -52,7 +52,7 @@ php artisan serve
 
 Server akan berjalan di `http://127.0.0.1:8000`. Anda bisa membuka alamat ini di browser untuk melihat project Laravel.
 
-### 9. (Opsional) Install Dependensi Frontend
+### 9.Install Dependensi Frontend
 Jika project menggunakan frontend (seperti Laravel Mix), Anda perlu menginstall dependensi menggunakan `npm` atau `yarn`:
 ```bash
 npm install
