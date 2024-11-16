@@ -10,6 +10,15 @@
 # Tutorial Instalasi
 - [klik disini](./tutorial.md).
 
+---
+## Video Demo
+
+Klik pada teks di bawah untuk melihat video demo aplikasi:
+[Klik untuk menonton video](https://drive.google.com/uc?id=1Piyymz-DVJ-dDL8tCHiKXcgO16xVx-Ka)
+
+
+---
+
 ## About Laravel
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
