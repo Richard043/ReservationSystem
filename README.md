@@ -13,8 +13,9 @@
 ---
 ## Video Demo
 
-Klik pada teks di bawah untuk melihat video demo aplikasi:
-[Klik untuk menonton video](https://drive.google.com/uc?id=1Piyymz-DVJ-dDL8tCHiKXcgO16xVx-Ka)
+Klik teks berikut untuk melihat video demo aplikasi:
+
+[Klik disini](https://drive.google.com/uc?id=1Piyymz-DVJ-dDL8tCHiKXcgO16xVx-Ka)
 
 
 ---
